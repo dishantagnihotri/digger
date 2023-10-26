@@ -1,6 +1,9 @@
 .idea/
 .DS_Store
 venv/
+temp_auto_push.bat
 **/__pycache__/
 __azurite*
 ./digger
+.gitignore
+branch_structure.json
