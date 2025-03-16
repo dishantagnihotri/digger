@@ -1,7 +1,10 @@
 .idea/
 **/.env
 **/.env*
+temp_auto_push.bat
 .DS_Store
 venv/
 **/__pycache__/
 __azurite*
+.gitignore
+branch_structure.json
