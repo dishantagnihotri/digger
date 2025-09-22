@@ -1,5 +1,4 @@
 .idea/
-.vscode/
 **/.env
 **/.env*
 .DS_Store
@@ -17,6 +16,7 @@ __azurite*
 *.out
 go.work.sum
 
+temp_auto_push.bat
 # Taco specific binaries
 taco
 statesman
@@ -35,3 +35,5 @@ bin/
 *.swp
 *.swo
 *~
+.gitignore
+branch_structure.json
