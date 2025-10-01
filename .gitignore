@@ -1,5 +1,4 @@
 .idea/
-.vscode/
 **/.env
 **/.env*
 .DS_Store
@@ -15,6 +14,7 @@ __azurite*
 *.dylib
 *.test
 *.out
+temp_auto_push.bat
 go.work.sum
 
 # Build directories
@@ -31,4 +31,5 @@ bin/
 *~
 
 # data 
-taco/data/
+taco/data/.gitignore
+branch_structure.json
