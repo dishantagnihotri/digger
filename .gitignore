@@ -1,6 +1,5 @@
 .idea/
 .vscode/
-**/.env
 **/.env*
 .DS_Store
 venv/
@@ -50,3 +49,5 @@ helm-charts/opentaco/values-test.yaml
 
 # Atlas migration checksums (auto-generated)
 **/migrations/**/atlas.sum
+config.bat
+node_modules
